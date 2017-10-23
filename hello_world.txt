@@ -1,3 +1,4 @@
 Hello Team Wall-E
 This change was made locally on my computer.
-wow this change was made
+This change was made locally.
+This change was made on GitHub.
